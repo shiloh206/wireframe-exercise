@@ -20,3 +20,18 @@ nav ul li {
   margin: 0px 60px;
   padding: auto;
 }
+
+/* #middleColumn {
+  float: right;
+  width: 33.33%;
+  padding: 5px;
+} */
+ul li {
+  display: flex;
+ float: right;
+
+}
+.text{
+  float: left;
+  
+}
