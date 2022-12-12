@@ -1,0 +1,37 @@
+header {
+  background-color: #444; color: white;
+  padding: 2% 10% 2%;
+  margin: 0px auto 30px;
+  justify-content: center;
+}
+header nav {
+  display: flex;
+  justify-content: center;
+}
+
+nav ul {
+  display: flex;
+}
+nav ul li {
+  display: flex;
+  flex: auto;
+  justify-content: center;
+  align-items: center;
+  margin: 0px 60px;
+  padding: auto;
+}
+
+/* #middleColumn {
+  float: right;
+  width: 33.33%;
+  padding: 5px;
+} */
+ul li {
+  display: flex;
+ float: right;
+
+}
+.text{
+  float: left;
+  
+}
